@@ -1,17 +1,11 @@
-[![Build Status](https://travis-ci.org/chenghuanmei/chenghuanmei.github.io.svg?branch=master)](https://travis-ci.org/chenghuanmei/chenghuanmei.github.io)
-[![codebeat badge](https://codebeat.co/badges/5f031df3-f6c1-4ec0-911a-ff6617ca50b9)](https://codebeat.co/projects/github-com-chenghuanmei-chenghuanmei-github-io-master)
-[![GitHub issues](https://img.shields.io/github/issues/chenghuanmei/chenghuanmei.github.io.svg?style=flat)](https://github.com/chenghuanmei/chenghuanmei.github.io/issues)
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
-[![](https://img.shields.io/github/stars/chenghuanmei/chenghuanmei.github.io.svg?style=social&label=Star)](https://github.com/chenghuanmei/chenghuanmei.github.io)
-[![](https://img.shields.io/github/forks/chenghuanmei/chenghuanmei.github.io.svg?style=social&label=Fork)](https://github.com/chenghuanmei/chenghuanmei.github.io)
-
+[![Build Status](https://travis-ci.org/chenghuanmei/chm.github.io.svg?branch=master)](https://travis-ci.org/chenghuanmei/chm.github.io)
 
 博客的搭建教程来自 [BY](https://github.com/qiubaiying/qiubaiying.github.io) 
  
 更为详细的教程戳这 [《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c) 或 [wiki](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
 
 >
-### [查看当前博客戳这里 👆](http://chenghuanmei.github.io)
+### [查看当前博客戳这里 👆](http://chm.github.io)
 
 
 ## 使用
@@ -49,11 +43,11 @@
 ```
 # Site settings
 title: BY Blog                    # 你的博客网站标题
-SEOTitle: 欢媚的博客 | CHM Blog		# SEO 标题
+SEOTitle: hm的博客 | CHM Blog		# SEO 标题
 description: "Hey"	   	   # 随便说点，描述一下
 
 # SNS settings      
-github_username: chenghuanmei     # 你的github账号
+github_username: chm     # 你的github账号
 jianshu_username: xxxxxxxxxx  # 你的简书ID。
 
 # Build settings
@@ -195,7 +189,7 @@ iframe在不同的设备中，将会自动的调整大小。保留内边距是�
 ```
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: chenghuanmei
+disqus_username: chm
 ```
 
 #### Gitalk
@@ -240,7 +234,7 @@ ga_domain: auto			# 默认的是 auto, 这里我是自定义了的域名，你�
 
 ### SEO Title
 
-我的博客标题是 **“CHM Blog”** 但是我想要在搜索的时候显示 **“欢媚的博客 | CHM Blog”** ，这个就需要 SEO Title 来定义了。
+我的博客标题是 **“CHM Blog”** 但是我想要在搜索的时候显示 **“hm的博客 | CHM Blog”** ，这个就需要 SEO Title 来定义了。
 
 其实这个 SEO Title 就是定义了<head><title>标题</title></head>这个里面的东西和多说分享的标题，你可以自行修改的。
 
@@ -270,5 +264,5 @@ ga_domain: auto			# 默认的是 auto, 这里我是自定义了的域名，你�
 
 ## License
 
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/chenghuanmei/chenghuanmei.github.io/blob/master/LICENSE)。
+遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/chenghuanmei/chm.github.io/blob/master/LICENSE)。
 
